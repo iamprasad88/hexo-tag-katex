@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "katex": "^0.5.1"
+  },
+  "keywords": [
+    "hexo",
+    "katex",
+    "latex",
+    "org"
+  ],
+  "main": "index",
+  "name": "hexo-tag-katex",
+  "version": "1.0.3",
+  "author": "Prasad Thondamuthur Vasanth (http://iamprasad88.github.io)",
+  "license": "MIT",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/iamprasad88/hexo-tag-katex"
+  }
+}
