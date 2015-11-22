@@ -10,7 +10,7 @@
   ],
   "main": "index",
   "name": "hexo-tag-katex",
-  "version": "1.0.3",
+  "version": "1.1.1",
   "author": "Prasad Thondamuthur Vasanth (http://iamprasad88.github.io)",
   "license": "MIT",
   "repository" : {
